@@ -7,13 +7,13 @@
 На тестирование затрачено: <1 час>
 
 В результате тестирования выявлены следующие дефекты:
-[Баг-репорт] (<https://github.com/demmysabel/Java1.1/issues/1>)
+[Баг-репорт]:https://github.com/demmysabel/Java1.1/issues/1
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-[Чек лист №1] (https://github.com/demmysabel/Java1.1/issues/2#issue-1111366220)
+[Чек лист №1]:https://github.com/demmysabel/Java1.1/issues/2#issue-1111366220
 
 
 
